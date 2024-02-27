@@ -11,7 +11,7 @@ import Wrapper from 'include/Wrapper';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='react_carb'>
       <Wrapper>
         <ScrollTop />
         <Routes>
