@@ -1,6 +1,6 @@
 {
-  "homepage":"",
-  "name": "",
+  "homepage":"http://webcorgi.github.io/react_carb",
+  "name": "react_carb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

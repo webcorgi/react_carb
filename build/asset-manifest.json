@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_carb/static/css/main.4e1eeade.css",
+    "main.js": "/react_carb/static/js/main.4ab88396.js",
+    "static/media/visual_bg.png": "/react_carb/static/media/visual_bg.94bea06471deed0c8e7b.png",
+    "static/media/Pretendard-Bold.woff2": "/react_carb/static/media/Pretendard-Bold.0676c8838a37a3b770d8.woff2",
+    "static/media/Pretendard-Medium.woff2": "/react_carb/static/media/Pretendard-Medium.ea235f1edb8815831a25.woff2",
+    "static/media/Pretendard-Regular.woff2": "/react_carb/static/media/Pretendard-Regular.6090e6b5524796768e78.woff2",
+    "static/media/Pretendard-Light.woff2": "/react_carb/static/media/Pretendard-Light.27c9a07cbc308ce88d1a.woff2",
+    "static/media/Pretendard-SemiBold.woff2": "/react_carb/static/media/Pretendard-SemiBold.96cc5889b6ca53fa93dd.woff2",
+    "static/media/visual_bg_mobile.png": "/react_carb/static/media/visual_bg_mobile.74a627cb48ae19fa13f4.png",
+    "static/media/call.png": "/react_carb/static/media/call.56ba356b9c89f043c5ce.png",
+    "static/media/table.png": "/react_carb/static/media/table.ecf2daacbc45b9c326c4.png",
+    "static/media/table_mobile.png": "/react_carb/static/media/table_mobile.499c405670c96873ef63.png",
+    "static/media/carpos.png": "/react_carb/static/media/carpos.5da2c0e62ea4daf25655.png",
+    "static/media/processbox3_mobile.png": "/react_carb/static/media/processbox3_mobile.5f6585b349a1219a4c35.png",
+    "index.html": "/react_carb/index.html",
+    "main.4e1eeade.css.map": "/react_carb/static/css/main.4e1eeade.css.map",
+    "main.4ab88396.js.map": "/react_carb/static/js/main.4ab88396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e1eeade.css",
+    "static/js/main.4ab88396.js"
+  ]
+}
